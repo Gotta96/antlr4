@@ -1,6 +1,6 @@
 # Progetto per il Corso di Automi e Linguaggi Formali
 
-##### Progetto svolto in collaborazione con 2 stundenti dell'Università di Padova
+##### Progetto svolto in collaborazione con 2 studenti dell'Università di Padova
 
 ## Istruzioni per il progetto
 
