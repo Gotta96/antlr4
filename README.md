@@ -1,5 +1,7 @@
 # Progetto per il Corso di Automi e Linguaggi Formali
 
+##### Progetto svolto in collaborazione con 2 stundenti dell'Università di Padova
+
 ## Istruzioni per il progetto
 
 In questo laboratorio vi si chiede di utilizzare il generatore di parser ANTLR v4 per creare un semplice linguaggio di programmazione imperativa che chiameremo TinyREXX. Il file laboratorio_antlr.zip contiene il generatore di parser ANTLR versione 4.7, le librerie di runtime per il linguaggio C++ per linux, la grammatica che definisce i costrutti di base di TinyREXX ed il codice del syntax checker e del traduttore descritti nel tutorial.
